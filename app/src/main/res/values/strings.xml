@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MqttDemo</string>
+    <string name="server_uri_txt">Server URI</string>
+    <string name="server_uri_tf">Server URI</string>
+    <string name="client_id">Client Id</string>
+    <string name="user_name">Username</string>
+    <string name="password">Password</string>
+    <string name="topic_txt">Topic</string>
+    <string name="msg_txt">Message</string>
+</resources>
